@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:xylophone/components/AudibleButton.dart';
+import 'package:xylophone/widgets/AudibleButton.dart';
 
 class XylophoneLayout {
   List<Color> _colors = [
